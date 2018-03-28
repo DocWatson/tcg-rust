@@ -1,0 +1,8 @@
+[package]
+name = "tcg-kata"
+version = "0.1.0"
+authors = ["DocWatson <beau@beauwatson.com>"]
+
+[dependencies]
+rand = "0.4"
+colored = "1.6"
